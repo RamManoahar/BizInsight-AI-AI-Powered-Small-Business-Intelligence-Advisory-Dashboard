@@ -1,0 +1,25 @@
+Date,Product,Category,Region,Customer,Quantity,Sales,Cost
+2026-01-03,Starter Kit,Hardware,North,Customer A,8,12000,7600
+2026-01-08,Cloud Basic,Software,South,Customer B,12,18000,6500
+2026-01-12,Consulting,Services,West,Customer C,3,24000,14500
+2026-01-17,Starter Kit,Hardware,East,Customer D,5,7500,4700
+2026-02-02,Cloud Basic,Software,North,Customer E,15,22500,8000
+2026-02-06,Consulting,Services,South,Customer F,2,16000,9800
+2026-02-14,Premium Kit,Hardware,West,Customer G,4,14000,10200
+2026-02-20,Cloud Basic,Software,East,Customer H,10,15000,5300
+2026-03-01,Starter Kit,Hardware,South,Customer I,7,10500,6700
+2026-03-05,Consulting,Services,North,Customer J,4,32000,18800
+2026-03-11,Premium Kit,Hardware,East,Customer K,6,21000,15300
+2026-03-19,Cloud Basic,Software,West,Customer L,18,27000,9700
+2026-04-04,Starter Kit,Hardware,West,Customer M,9,13500,8500
+2026-04-10,Cloud Basic,Software,North,Customer N,16,24000,8400
+2026-04-16,Consulting,Services,East,Customer O,2,16000,10200
+2026-04-22,Premium Kit,Hardware,South,Customer P,5,17500,12700
+2026-05-02,Cloud Basic,Software,South,Customer Q,20,30000,10500
+2026-05-07,Starter Kit,Hardware,North,Customer R,6,9000,5800
+2026-05-15,Consulting,Services,West,Customer S,5,40000,24000
+2026-05-23,Premium Kit,Hardware,East,Customer T,3,10500,7800
+2026-06-03,Cloud Basic,Software,East,Customer U,14,21000,7300
+2026-06-09,Starter Kit,Hardware,South,Customer V,10,15000,9200
+2026-06-17,Consulting,Services,North,Customer W,3,24000,14500
+2026-06-25,Premium Kit,Hardware,West,Customer X,7,24500,17600
